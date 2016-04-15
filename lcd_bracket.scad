@@ -1,3 +1,7 @@
+// Copyright (C) 2016 Cosmin Gorgovan <cosmin at linux-geek dot org>
+// This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License:
+// http://creativecommons.org/licenses/by-sa/4.0/
+
 lcd_thickness = 2.7;
 lcd_margin = 4;
 lcd_height = 60;
